@@ -67,7 +67,7 @@ function getBMIStateByAge(BMI, age) {
     BMIState = "healthy";
   }
   /**
-   * Stop making changes here!
+   * Stop making changes here!!
    */
   return BMIState;
 }
